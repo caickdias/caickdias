@@ -8,7 +8,7 @@
 - I love helping and teaching beginners
 - [My website](https://caickdias.github.io/) 
 
-## Get to know me..
+## Get to know me.. 😉
 - I'm always thinking of coding something to solve daily life problems
 - I've used C, Java, PHP, jQuery some years ago
 - I love crafting things!
