@@ -8,7 +8,7 @@
 - I love helping and teaching beginners
 - [My website](https://caickdias.github.io/) 
 
-## Repositores
+## Repositories ⌨️
 
 - [Divide aí!](https://github.com/caickdias/divideai-public): public repository of my app to show some of the files and stuff I used on this project
 - [Memory game](https://github.com/caickdias/memory-game):my first RN project. A simple, but fully working memory game
