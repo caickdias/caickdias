@@ -6,7 +6,7 @@
 - I'm also an [archery instructor](https://www.instagram.com/olimpo.arquearia/) and a [musician](https://www.instagram.com/applerosebanda/)
 - Bsc in Information Systems
 - I love helping and teaching beginners
-- [My website](https://caickdias.github.io/) 
+- [My personal website](https://caickdias.github.io/) and [my medium posts](https://medium.com/@caickandrade).
 
 ## Repositories ⌨️
 
