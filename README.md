@@ -8,7 +8,7 @@
 - I love helping and teaching beginners
 - [My personal website](https://caickdias.github.io/) and [my medium posts](https://medium.com/@caickandrade).
 
-## Repositories ⌨️
+## [Repositories](https://github.com/caickdias?tab=repositories) ⌨️
 
 - [Divide aí!](https://github.com/caickdias/divideai-public): public repository of my app to show some of the files and stuff I used on this project
 - [Alarm clock](https://github.com/caickdias/alarm-clock): n alarm clock where you have to solve given equation to turn it off
