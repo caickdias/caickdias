@@ -18,7 +18,7 @@
 
 ## Get to know me.. 😉
 - I'm always thinking of coding something to solve daily life problems
-- I've used C, Java, PHP, jQuery some years ago
+- I love sports
 - I love crafting things!
 - I love co-op and online games
 
