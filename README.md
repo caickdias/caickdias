@@ -14,6 +14,8 @@
 - (React) [Alarm clock](https://github.com/caickdias/alarm-clock): an alarm clock where you have to solve given equation to turn it off
 - (React) [URL Parser](https://github.com/caickdias/url-parser): paste your URL and the app will parse its information 
 - (React Native) [Memory game](https://github.com/caickdias/memory-game): my first RN project. A simple, but fully working memory game
+- (Node) [Invoice generator](https://github.com/caickdias/invoice-generator): generate basic PDF invoices with Node 
+- (Shell) [Static site with template shell script](https://github.com/caickdias/shell-script-static-site): a script for generating static html sites
 - (React Native) [Pokemon API](https://github.com/caickdias/pokemon-api-practice): a simple app to fetch pokemon's API. It's sort of a game, but it's not a game.
 - (React Native) [Supera ecommerece](https://github.com/caickdias/supera-ecommerce-desafio): a simple app as a job opportunity challenge
 
