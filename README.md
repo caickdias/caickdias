@@ -17,7 +17,6 @@
 - (Node) [Invoice generator](https://github.com/caickdias/invoice-generator): generate basic PDF invoices with Node 
 - (Shell) [Static site with template shell script](https://github.com/caickdias/shell-script-static-site): a script for generating static html sites
 - (React Native) [Pokemon API](https://github.com/caickdias/pokemon-api-practice): a simple app to fetch pokemon's API. It's sort of a game, but it's not a game.
-- (React Native) [Supera ecommerece](https://github.com/caickdias/supera-ecommerce-desafio): a simple app as a job opportunity challenge
 
 ## Get to know me.. 😉
 - I'm always thinking of coding something to solve daily life problems
