@@ -18,6 +18,7 @@
 - (Shell) [Static site with template shell script](https://github.com/caickdias/shell-script-static-site): a script for generating static html sites
 - (React Native) [Pokemon API](https://github.com/caickdias/pokemon-api-practice): a simple app to fetch pokemon's API. It's sort of a game, but it's not a game.
 - (Node) [GoDev Discord bot](https://github.com/caickdias/godev-discord-bot): a bot that will send [beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/1) exercises when asked to
+- (Node) [Blaze crash scrap](https://github.com/caickdias/blaze-crash-scrap): web scraping with puppeteer for game values
 
 ## Get to know me.. 😉
 - I'm always thinking of coding something to solve daily life problems
