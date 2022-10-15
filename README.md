@@ -25,6 +25,6 @@
 - I love sports
 - I love crafting things!
 - I love co-op and online games
-- Lets play some chess!
+- Let's play some chess!
 
 # See my repositories for more info about my projects!
