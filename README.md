@@ -1,5 +1,6 @@
 ## Hello! I'm Caick! 😁
 
+- Web developer at [Click Podium](https://www.linkedin.com/company/click-podium-comunica%C3%A7%C3%A3o/)
 - I'm a front-end developer, currently working with React and React Native!
 - I have designed, developed an released the [Divide aí!](https://linktr.ee/divideai) app to both App and Play Store!
 - Feel free to message or add me on [LinkedIn!](https://www.linkedin.com/in/caick-andrade/)
